@@ -1,0 +1,16 @@
+web vitals basically to track performance
+script hi basically jo project ko chlati h ya fr production k lie ready krti h 
+start = development script m chlane k lie, build production m different behave,eject = eject krne k lie
+lint config jo apni red line aati h unko correct way m krne k lie
+browserlist kon kon se browser p kaam kroge,kon kon s browser p ni 
+packagelockjson mainly package.json hi file h prisme aapkki dependency lock ho jati h ki y isi version p hi chlega
+manifest json basically mobile application k lie use hoti h  to aapke jo meta tags h wo manifest files se dekhe jate h
+robots.txt for search engine k lie
+jo public m index.html file h wo imp h kuki ek hi index file h aur sara kaam isp hoga,yhi page jo manly load hoga ek hi page h to mainly Calls 
+SPA(SINGLE PAGE APPLICATION) kha jayga
+react hamari main core foundation library h  sare refrences lene k lie kaam aati h 
+reactdom iska implementation h web p
+react native ek implementation h react ka mobile application p
+website ka ek dom h react apna kud ka dom bnata h reactdom i.e virtual dom wo actual dom s compare krta h  kitna usse difference h aur main dom m whi whi change krta h jo jarrurt h 
+basically index.html file m script wali line add ni hui actual m jo package.json wali m script h na "react-script" that internally add index.js in it
+babbel s output render as we have generated inside the library which get op
