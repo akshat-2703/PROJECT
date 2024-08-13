@@ -14,3 +14,5 @@ react native ek implementation h react ka mobile application p
 website ka ek dom h react apna kud ka dom bnata h reactdom i.e virtual dom wo actual dom s compare krta h  kitna usse difference h aur main dom m whi whi change krta h jo jarrurt h 
 basically index.html file m script wali line add ni hui actual m jo package.json wali m script h na "react-script" that internally add index.js in it
 babbel s output render as we have generated inside the library which get op
+
+
